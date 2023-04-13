@@ -1,0 +1,39 @@
+#msg-welcome{
+    background-color: rgb(212, 74, 50);
+     width: 50%;/* el tamaño del ancho  */
+    height: 15%;/* el tamaño del largo  */
+}
+.msg-welcome{
+    color: rgb(154, 127, 204);
+    font-size: 50px;/* el tamaño del ancho  */
+    transform: translate(20%, 15%);
+}
+
+#msg-log{
+    width: 50%;/* el tamaño del ancho  */
+    height: 15%;
+    float: left;
+}
+
+#vs-login{
+    background-color: rgb(55, 8, 129);
+    width: 50%;/* el tamaño del ancho  */
+    height: 70%;
+    transform: translate(10%);
+    margin: 20px;
+}
+
+#vs-login input[type="text"]{
+    /* width: 150%;/* el tamaño del ancho  
+    height: 40%;
+    margin: 20px;
+    padding: auto; */
+    transform: translate(40%,100%);
+}
+#vs-login input[type="password"]{
+    transform: translate(50%,100%);
+}
+
+#vs-login input[type="submit"]{
+    transform: translate(-50%,100%);
+}

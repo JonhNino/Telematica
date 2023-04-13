@@ -1,0 +1,26 @@
+Configuración inicial de Visual Studio Code
+_link: https://www.youtube.com/watch?v=cwvpqNggpS8
+
+Extensiones para Visual Studio Code
+_link: https://www.youtube.com/watch?v=BO-nhyqpm7A
+
+Tutorial Básico de Node JS
+_link: https://www.youtube.com/watch?v=BhvLIzVL8_o
+
+Tutorial Básico de Express Node JS
+_link: https://www.youtube.com/watch?v=794Q71KVw1k
+
+
+Tutorial para Crear Pagina Web sencilla
+_link: https://www.youtube.com/watch?v=sh-NanMOh1Q
+Voy aca en este tutorial :V
+
+Tutorial el porque de Node JS?
+_link: https://www.youtube.com/watch?v=B6MZkrUZtMQ
+Visto
+
+Curso Básico de Git-Hub
+_link: https://www.youtube.com/watch?v=HiXLkL42tMU&t=2231s
+
+Aprendiendo Python en 15 min.
+_link: https://www.youtube.com/watch?v=gOR9qZ3ZgwA
